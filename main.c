@@ -5,7 +5,7 @@ int main()
     char name[100];
     double deposits;
     int duration;
-    double interest = 0.12;
+    double interest = 0.12; // the 12% interest
     double totalDeposits = 0;
 
     printf("Enter a customer name: ");
